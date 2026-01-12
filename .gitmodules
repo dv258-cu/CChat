@@ -1,0 +1,3 @@
+[submodule "CChat-Client/deps/SDL"]
+	path = CChat-Client/deps/SDL
+	url = https://github.com/libsdl-org/SDL.git
